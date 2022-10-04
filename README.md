@@ -1,7 +1,7 @@
 ### Olá, Me chamo Paulo Henrique!! 👋 / Hey, I'm Paulo Henrique!!!👋
 </br>
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloharaujo1)   [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5tvOPUqbxFPfiH5LmjpceQ?si=d78140e1acde46a4)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloharaujo1)[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5tvOPUqbxFPfiH5LmjpceQ?si=d78140e1acde46a4)
 
 
 
